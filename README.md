@@ -31,17 +31,17 @@ Open the .env file and update it with your own credentials.
 
 ### Server Dependencies
 
-Navigate to the server directory and install the necessary packages:
+In server directory, install the necessary packages:
 
 ```bash
-cd server
 npm install
 ```
 
 ### Client Dependencies
 
+In client directory, install the necessary packages:
+
 ```bash
-cd client
 npm install
 ```
 
