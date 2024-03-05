@@ -27,7 +27,7 @@ cp .env.example .env
 
 Open the .env file and update it with your own credentials.
 
-## Install Dependencies
+## Install Dependencies
 
 ### Server Dependencies
 
@@ -45,7 +45,7 @@ cd client
 npm install
 ```
 
-## Running the Application
+## Running the Application
 
 ### Start the Server
 
